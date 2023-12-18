@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Local Start !!!
+
+For local start you should create .env file inside project dir and add your auth github token. [Instruction](https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-api?apiVersion=2022-11-28)
+
 ## Available Scripts
 
 In the project directory, you can run:
